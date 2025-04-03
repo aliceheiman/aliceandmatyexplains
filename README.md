@@ -1,6 +1,6 @@
-# 🤖 Alice and Maty Explains
+# 🤖 Alice and Maty Explain
 
-Welcome to *Alice and Maty Explains*. Please check out our current courses!
+Welcome to *Alice and Maty Explain*. Please check out our current courses!
 
 ### Courses
 
